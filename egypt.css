@@ -1,0 +1,16 @@
+body, html{
+    margin:0px;
+    padding:0px;
+    background:lightcyan;
+}
+#list{ background:seashell;
+    margin:50px; padding:50px 50px; 
+    height:200px;font-family: 'M PLUS Rounded 1c', sans-serif;}
+#heading{
+    color:darkred;
+    margin:50px; padding:50px;
+    font-family: 'M PLUS Rounded 1c', sans-serif;
+}
+#image{
+    margin:50px;
+}
